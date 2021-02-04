@@ -1,1 +1,2 @@
-# titanic-survival-prediction
+# Titanic-survival-prediction
+Applied data wrangling & logistic regression
